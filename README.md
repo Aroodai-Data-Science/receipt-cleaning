@@ -12,7 +12,7 @@ The output of the data cleaning operation is saved in the `cleaned` [folder](htt
 
 ## Cleaned Data
 
-The cleaned and pre-cleaned data files have been included in the repository for easy access. The cleaned data output is best accessed through our Kaggle datasets [link pending]
+The cleaned and pre-cleaned data files have been included in the repository for easy access. The cleaned data output is best accessed through our [Kaggle datasets](https://www.kaggle.com/datasets/aroodai/havaiianas-ion-orchard-singapore-pos-records).
 
 ## Licensing
 
